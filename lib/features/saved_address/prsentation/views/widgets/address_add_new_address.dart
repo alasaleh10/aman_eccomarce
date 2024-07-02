@@ -22,7 +22,8 @@ class AddressAddAddress extends StatelessWidget {
         builder: (context, state) {
           return GestureDetector(
             onTap: () {
-              context.pushNamed(AppRouters.addAddressView, extra: context);
+              context
+                  .pushNamed(AppRouters.addAddressView, extra: [context, 0, 0]);
             },
             child: DottedBorder(
               color: AppColors.kPrimColor,

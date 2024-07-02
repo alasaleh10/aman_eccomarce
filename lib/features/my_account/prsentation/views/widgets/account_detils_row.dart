@@ -16,7 +16,7 @@ class AccountDetilsRow extends StatelessWidget {
       padding: const EdgeInsets.symmetric(horizontal: 10, vertical: 10),
       child: Row(
         children: [
-          AccountImageStack(image:userData.image?? erroeImage, onTap: () {}),
+          AccountImageStack(image: erroeImage, onTap: () {}),
           SizedBox(width: 20.w),
           Expanded(
               child: Column(

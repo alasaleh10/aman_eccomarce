@@ -180,6 +180,7 @@
     "updatingData":"جاري تحديث البيانات",
     "changeLan":"تغيير اللغة",
     "noAddress":"لايوجد عناوين",
-    "deleteCart":"حذف من السلة"
+    "deleteCart":"حذف من السلة",
+    "update":"تحديث"
    
   }

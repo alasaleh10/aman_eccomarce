@@ -18,7 +18,7 @@ class NewAmanItems extends StatelessWidget {
               childAspectRatio: 1 / 1.6,
               crossAxisCount: MediaQuery.sizeOf(context).width > 550 ? 3 : 2),
           itemBuilder: (context, index) {
-            return FittedBox(fit: BoxFit.cover, child: Text('')
+            return const FittedBox(fit: BoxFit.cover, child: Text('')
                 // HomeItemsContiner(
                 //   testModel: testList[index],
                 // ),

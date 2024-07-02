@@ -29,7 +29,7 @@ class FailureColumn extends StatelessWidget {
         ),
         SizedBox(height: 15.h),
         CustomElevatedButton(
-            title: title ?? 'tryAgain'.tr(), onPressed: onPressed)
+            title: title ?? 'update'.tr(), onPressed: onPressed)
       ],
     );
   }

@@ -18,7 +18,8 @@ class AccountListTileColumn extends StatelessWidget {
             title: 'mySavedAddress'.tr(),
             image: Assets.imagesLocation2,
             onTap: () {
-              GoRouter.of(context).pushNamed(AppRouters.savedAddressView);
+              GoRouter.of(context).pushNamed(AppRouters.savedAddressView,
+                 );
             }),
         AccountCustomListTile(
             title: 'paymentMethods'.tr(),

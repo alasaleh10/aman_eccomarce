@@ -33,4 +33,17 @@ class AddressRepoIm implements AddressRepo {
       return left(Diohandling(e.toString()));
     }
   }
+
+  @override
+  Future<Either<Failure, dynamic>> addAddress(
+      {required String name,
+      required String city,
+      required String region,
+      required String details,
+      required num lat,
+      required num lng,
+      required String notes})async {
+   
+    throw UnimplementedError();
+  }
 }

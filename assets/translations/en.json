@@ -181,6 +181,7 @@
     "updatingData":"Updating Data",
     "changeLan":"Change Language",
     "noAddress":"No Address",
-    "deleteCart":"Delete From Cart"
+    "deleteCart":"Delete From Cart",
+    "update":"update"
 
    }

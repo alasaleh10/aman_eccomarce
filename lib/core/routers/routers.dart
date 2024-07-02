@@ -3,7 +3,7 @@ import 'package:aman_store2/features/items_detils/prsentation/views/display_item
 import 'package:aman_store2/features/items_detils/prsentation/views/item_detils_view.dart';
 import 'package:aman_store2/features/saved_address/prsentation/views/add_address_view.dart';
 import 'package:aman_store2/features/saved_address/prsentation/views/saved_address_view.dart';
-import 'package:flutter/material.dart';
+
 
 import '../../features/orders/prsentation/views/rating_order_trying_view.dart';
 
@@ -174,8 +174,7 @@ abstract class Routers {
       pageBuilder: (context, state) {
         return pageAnimation(
             page: AddAddressView(
-
-          context2: state.extra as BuildContext,
+          data: state.extra as List,
         ));
       },
     ),
