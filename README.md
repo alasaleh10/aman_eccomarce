@@ -1,16 +1,50 @@
-# aman_store2
+##  🌟 Aman Eccomarce    
 
-A new Flutter project.
+هو تطبيق متجر الكتروني تم تصميمه بإطار فلاتر مع واجهات تتناسب مع جميع الاجهزة
 
-## Getting Started
+تم استخدام ال api في هذا التطبيق هو https://valuxapps.com/api نظرا لدعمه اللغة العربية والانجليزية
 
-This project is a starting point for a Flutter application.
+توجد بعض الاشياء لم تربط ب api نظرا لعدم توفر ال api لكل مفاهيم ال UI
 
-A few resources to get you started if this is your first Flutter project:
+التطبيق يدعم اللغتين العربية والانجليزية
 
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
+##  في حال توجد مشكلة في عملية التسجيل يرجى استخدام هذا الحساب واذا لاتوجد مشكلة يمكنك عمل تسجيل حساب لان بعض الاوقات توجد مشكلة في ال  api
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+email: testaman@gmail.com
+
+password: 123456789tT
+
+ 
+
+## بعض واجهات التطبيق 
+
+
+
+
+
+
+
+<p align="start">
+  <img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719821805.png" alt="Home" width="250" height="550">
+  <img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719821835.png" alt="Home" width="250" height="550">
+		 <img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719823084.png" alt="My Account" width="250" height="550">
+  <img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719823095.png" alt="My Account" width="250" height="550">
+		<img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719823293.png" alt="img" width="250" height="550">
+		<img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719823297.png" alt="img" width="250" height="550">
+		<img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719823299.png" alt="img" width="250" height="550">
+		<img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719823310.png" alt="img" width="250" height="550">
+		<img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719823314.png" alt="img" width="250" height="550">
+				<img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719824305.png" alt="img" width="250" height="550">
+				<img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719824338.png" alt="img" width="250" height="550">
+				<img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719824358.png" alt="img" width="250" height="550">
+				<img src="https://github.com/alasaleh10/aman_eccomarce/blob/main/appImages/Screenshot_1719824360.png" alt="img" width="250" height="550">
+		
+				
+				
+		
+  
+</p>
+
+
+
+
